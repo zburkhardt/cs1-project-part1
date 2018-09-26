@@ -19,5 +19,6 @@ const float CLE_ORD = 273.00f,
 int main()
 {
     cout << "Welcome to Zach Burkhardt Airlines" << endl;
+    cout << endl;
     return 0;
 }
